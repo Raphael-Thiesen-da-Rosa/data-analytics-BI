@@ -17,7 +17,7 @@
 
 - 💬 Me pergunte sobre **SQL, Google Data Studio, Power BI, Excel**
 
-- 📫 Você me encontra através do e-mail [rtanalista@gmail.com](rtanalista@gmail.com)
+- 📫 Você me encontra através do e-mail [https://rtanalista@gmail.com](https://rtanalista@gmail.com)
 
 - 📄 Meu perfil profissional [https://www.linkedin.com/in/raphael-thiesen-da-rosa/](https://www.linkedin.com/in/raphael-thiesen-da-rosa/)
 
